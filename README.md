@@ -1,40 +1,29 @@
 #DS-TASK-O1-PRODIGY
-PRODIGY_DS_01
-PRODIGY INFOTECH DATASCIENCE INTERNSHIP TASK-02
-
+PRODIGY INFOTECH DATASCIENCE INTERNSHIP TASK-1
 Welcome to my submission for Task 2 of the Data Science Internship at Prodigy Infotech. In this task, I have performed Exploratory Data Analysis (EDA) on a dataset provided, focusing on creating a visualization to represent the distribution
-
-DATASET:
-Geometric Gradient Isometric Square
-Circle with gradient
-Circle with gradient
-Circle with gradient
-Circle with gradient
-Circle with gradient
-Circle with gradient
 Task-01
 Create a bar chart or histogram to visualize the distribution of a categorical or continuous variable, such as the distribution of ages or genders in a population.
 Sample Dataset :- https://data.worldbank.org/indicator/SP.POP.TOTL
 Comillas Negras
 01
 ProDigy infotech
-Survived: Whether the passenger survived (1) or not (0).
 
-Pclass: Ticket class (1 = 1st class, 2 = 2nd class, 3 = 3rd class).
-
-Name: Name of the passenger.
+Name: World population data
 
 Sex: Gender of the passenger (male or female).
 
-Age: Age of the passenger in.
+year: year of the passenger in.
 
-Ticket: Ticket number.
+bar garaphs of worls population data.
 
 Fare: The fare paid by the passenger.
 
-Cabin: Cabin number (if recorded).
-
-Embarked: Port of Embarkation (C = Cherbourg; Q = Queenstown; S = Southampton).
+Cabin: Cabin number (if recorded)
+country code
+country name
+indicator code
+inticator name
+("2002")
 
 TOOLS AND LIBRARIES USED:
 
