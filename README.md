@@ -1,6 +1,6 @@
 #DS-TASK-O1-PRODIGY
 PRODIGY INFOTECH DATASCIENCE INTERNSHIP TASK-1
-Welcome to my submission for Task 2 of the Data Science Internship at Prodigy Infotech. In this task, I have performed Exploratory Data Analysis (EDA) on a dataset provided, focusing on creating a visualization to represent the distribution
+Welcome to my submission for Task 1 of the Data Science Internship at Prodigy Infotech. In this task, I have performed Exploratory Data Analysis (EDA) on a dataset provided, focusing on creating a visualization to represent the distribution
 Task-01
 Create a bar chart or histogram to visualize the distribution of a categorical or continuous variable, such as the distribution of ages or genders in a population.
 Sample Dataset :- https://data.worldbank.org/indicator/SP.POP.TOTL
